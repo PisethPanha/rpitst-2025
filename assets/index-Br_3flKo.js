@@ -11144,11 +11144,11 @@ function nk() {
     }),
   });
 }
-const rk = "/RPITST2024/assets/IMG1-BnRLYUiD.png",
-  ik = "/RPITST2024/assets/IMG3-C740SyTr.png",
-  sk = "/RPITST2024/assets/IMG3-C740SyTr.png",
-  ok = "/RPITST2024/assets/IMG4-BU7IbzUA.png",
-  ak = "/RPITST2024/assets/IMG5-DUPTrNwj.png";
+const rk = "/rpitst-2025/assets/IMG1-BnRLYUiD.png",
+  ik = "/rpitst-2025/assets/IMG3-C740SyTr.png",
+  sk = "/rpitst-2025/assets/IMG3-C740SyTr.png",
+  ok = "/rpitst-2025/assets/IMG4-BU7IbzUA.png",
+  ak = "/rpitst-2025/assets/IMG5-DUPTrNwj.png";
 function lk(e) {
   if (typeof Proxy > "u") return e;
   const t = new Map(),
@@ -31494,7 +31494,7 @@ function qD() {
     ],
   });
 }
-const GD = "/RPITST2024/assets/structure-DkyNJ0Es.jpeg";
+const GD = "/rpitst-2025/assets/structure-DkyNJ0Es.jpeg";
 function YD() {
   return h.jsx("div", { className: "", children: h.jsx("img", { src: GD }) });
 }
